@@ -1,4 +1,3 @@
-# rsschool-cv
 **Maria Parkhimovich**, 31 y.o.
 + Junior Front-End Developer
 
