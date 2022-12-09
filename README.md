@@ -1,9 +1,4 @@
-# rsschool-cv
-https://Ololoevna.github.io/rsschool-cv/cv
-
- 
- 
-**Maria Parkhimovich**, 31 y.o.
+# **Maria Parkhimovich**, 31 y.o.
 + Junior Front-End Developer
 
 
@@ -34,3 +29,9 @@ Ability to work in conditions of time shortage, responsibility, sense of duty, d
 
 
 **English level** - Intermediate
+
+
+https://Ololoevna.github.io/rsschool-cv/cv
+
+ 
+ 
